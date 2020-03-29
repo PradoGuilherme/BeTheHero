@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of BeTheHero application",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "backend",
+    "nodejs",
+    "javascript",
+    "js",
+    "node",
+    "express",
+    "nodemon"
+  ],
+  "repository": "https://github.com/PradoGuilherme/BeTheHero.git",
+  "author": "Guilherme Prado",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
